@@ -1,23 +1,27 @@
-body{
-    background-color: rgb(255, 153, 85);
+body {
+    background-color: rgb(170, 170, 170);
 }
 
 h1 {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
 }
+
 h2 {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 h3 {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 li {
-    color: rgb(0, 0, 0)
-    ;
+    inline-size: 100px;
+    display: inline;
+    color: rgb(0, 0, 0);
+    margin: 20px;
 }
 
 p {
-    color:rgb(0, 0, 0)
+    color: rgb(99, 18, 119);
 }
