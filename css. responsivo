@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'trebuchet MS'
+}
+
+#moreInfo {
+    background-color: rgb(89, 0, 255);
+    min-width: 360px;
+    padding: 24px;
+    margin: auto;
+    text-align: justify;
+    border: 5px solid;
+    box-shadow: inset 1px 10px 10px 0px;
+}
+
+body {
+    background-color: blueviolet;
+}
+@media (min-width: 600px) {
+    body {
+        background-color: rgb(255, 0, 200);
+    }
+
+    #allInfo {
+        display: flex;
+    }
+    
+}
